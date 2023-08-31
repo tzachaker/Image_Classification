@@ -5,6 +5,11 @@ The "Image Classification - Deep Learning Project" utilizes the CIFAR-10 dataset
 
 The primary objective of this project is to harness the power of TensorFlow 2 and the CIFAR-10 dataset within the Python programming environment to develop and train a deep learning model capable of accurate image classification. The model will be trained using a dataset consisting of 60,000 32x32 color images, each assigned to one of 10 distinct classes. The trained model's performance will be evaluated using a separate set of 10,000 images. The ultimate goal is to achieve a high level of accuracy in classifying images, thereby showcasing the efficacy of TensorFlow 2 and deep learning methodologies in tasks involving image recognition.
 
+## Some tests:
+![image](https://github.com/tzachaker/Image_Classification/assets/76492492/45373497-aed4-41cc-aa29-8a25f6eea6df)
+
+
+
 ## Project Structure
 The project consists of the following key scripts:
 
