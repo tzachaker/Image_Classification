@@ -1,5 +1,3 @@
-# Image_Classification
-
 # Image Classification - Deep Learning Project
 
 ## Abstract
